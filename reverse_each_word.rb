@@ -1,1 +1,2 @@
-reverse_each_word.collect do |memo, (key, value)|
+def reverse_each_word(string)
+ 
